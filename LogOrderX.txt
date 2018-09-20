@@ -1,5 +1,5 @@
 logging order f1
-O:BundleLoader:Awake
+O:BundleLoader:local1
 O:BundleLoader:GetSpawnPoints
 O:BundleLoader:GetCheckPoints2D
 
