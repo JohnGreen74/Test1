@@ -1,6 +1,6 @@
 logging order f1
 O:BundleLoader:local1
-O:BundleLoader:GetSpawnPoints
+O:BundleLoader:local2
 O:BundleLoader:GetCheckPoints2D
 
 master1
