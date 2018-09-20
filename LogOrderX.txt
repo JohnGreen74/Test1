@@ -1,7 +1,9 @@
-logging order started
-O:BundleLoader:Awake
-O:BundleLoader:GetSpawnPoints
-O:BundleLoader:GetCheckPoints2D
+logging order f1
+O:BundleLoader:local1
+O:BundleLoader:local2
+local3
+local4
+O:BundleLoader:GetCheckPoints2D f1
 
 master1
 
