@@ -4,3 +4,5 @@ O:BundleLoader:GetSpawnPoints
 O:BundleLoader:GetCheckPoints2D
 
 master1
+
+master2
