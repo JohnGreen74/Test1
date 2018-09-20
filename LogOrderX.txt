@@ -1,0 +1,4 @@
+logging order started
+O:BundleLoader:Awake
+O:BundleLoader:GetSpawnPoints
+O:BundleLoader:GetCheckPoints2D
