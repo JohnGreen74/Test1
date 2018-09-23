@@ -2,7 +2,7 @@ logging order f1
 O:BundleLoader:reb1m1_l1
 O:BundleLoader:reb1m2_after_rebase_al2
 local3
-local4
+local4 RBTEST1
 O:BundleLoader:GetCheckPoints2D f1
 
 master1
