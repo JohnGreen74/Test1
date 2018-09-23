@@ -1,6 +1,7 @@
 logging order f1
 O:BundleLoader:reb1m1_l1
 O:BundleLoader:reb1m2_after_rebase_al2
+O:BundleLoader:RBTEST3
 local3
 local4 RBTEST1
 RBTEST1
